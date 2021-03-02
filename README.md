@@ -2,14 +2,14 @@
 
 ## Demos
 
-- [Informe Ejemplo]()
-- [Precisión Numérica y Derivadas]()
-- [Interpolación y Álgebra lineal]()
-- [Demo RK2, péndulo]()
-- [OOP y ODEs]()
-- [EDPs Elipticas, sobre-relajacion]()
-- [EDPs Parabolicas, Crank-Nicolson]()
-- [Ajuste de Datos]()
+- [Informe Ejemplo](#)
+- [Precisión Numérica y Derivadas](#)
+- [Interpolación y Álgebra lineal](#)
+- [Demo RK2, péndulo](#)
+- [OOP y ODEs](#)
+- [EDPs Elipticas, sobre-relajacion](#)
+- [EDPs Parabolicas, Crank-Nicolson](#)
+- [Ajuste de Datos](#)
 
 
 ## Tareas
