@@ -14,5 +14,5 @@
 
 ## Tareas
 
-- Tarea 0 -- Tarea Falsa. Entrega: _sin fecha de entrega._
-- Tarea 1 -- Raíces e Integrales numéricas. Entrega: _por definir._
+- [Tarea 0](#) -- Tarea Falsa. Entrega: _sin fecha de entrega._
+- [Tarea 1](#) -- Raíces e Integrales numéricas. Entrega: _por definir._
