@@ -2,7 +2,7 @@
 
 ## Demos
 
-- [Informe Ejemplo](#)
+- [Informe Ejemplo](https://github.com/uchileFI3104B-2021A/informe-ejemplo)
 - [Precisión Numérica y Derivadas](https://github.com/uchileFI3104B-2021A/demo-precision-derivada)
 - [Interpolación y Álgebra lineal](#)
 - [Demo RK2, péndulo](#)
