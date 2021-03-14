@@ -15,4 +15,4 @@
 ## Tareas
 
 - [Tarea 0](#) -- Tarea Falsa. Entrega: _sin fecha de entrega._
-- [Tarea 1](#) -- Raíces e Integrales numéricas. Entrega: _por definir._
+- [Tarea 1](https://github.com/uchileFI3104B-2021A/01-tarea-template) -- Raíces e Integrales numéricas. Entrega: 01/04/2021, 22:59 hrs.
