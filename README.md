@@ -17,3 +17,4 @@
 - [Tarea 0 (n/a)](#) -- Tarea Falsa. Entrega: _sin fecha de entrega._
 - [Tarea 1](https://github.com/uchileFI3104B-2021A/01-tarea-template) -- Raíces e Integrales numéricas. Entrega: 01/04/2021, 22:59 hrs.
 - [Tarea 2](https://github.com/uchileFI3104B-2021A/02-tarea-template) -- Interpolación y Álgebra Lineal. Entrega: 20/04/2021, 22:59 hrs.
+- [Tarea 3](https://github.com/uchileFI3104B-2021A/03-tarea-template) -- EDOs, Runge-Kutta. Entrega: 7/05/2021, 22:59 hrs.
