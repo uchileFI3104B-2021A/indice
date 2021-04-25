@@ -5,7 +5,7 @@
 - [Informe Ejemplo (privado)](https://github.com/uchileFI3104B-2021A/informe-ejemplo)
 - [Precisión Numérica y Derivadas (publico)](https://github.com/uchileFI3104B-2021A/demo-precision-derivada)
 - [Interpolación y Álgebra lineal (privado)](https://github.com/uchileFI3104B-2021A/demo-interpolacion-algebra-lineal)
-- [Demo RK2, péndulo (n/a)](#)
+- [Demo RK2, péndulo (privado)](https://github.com/uchileFI3104B-2021A/demo-rk2)
 - [OOP y ODEs (n/a)](#)
 - [EDPs Elipticas, sobre-relajacion (n/a)](#)
 - [EDPs Parabolicas, Crank-Nicolson (n/a)](#)
