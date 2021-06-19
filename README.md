@@ -19,4 +19,6 @@
 - [Tarea 2](https://github.com/uchileFI3104B-2021A/02-tarea-template) -- Interpolación y Álgebra Lineal. Entrega: 20/04/2021, 22:59 hrs.
 - [Tarea 3](https://github.com/uchileFI3104B-2021A/03-tarea-template) -- EDOs, Runge-Kutta. Entrega: 7/05/2021, 22:59 hrs.
 - [Tarea 4](https://github.com/uchileFI3104B-2021A/04-tarea-template) -- EDOs, OOP, Verlet y Beeman. Entrega: 24/05/2021, 22:59 hrs.
+- [Tarea 5](https://github.com/uchileFI3104B-2021A/05-tarea-template) -- EDPs, Crank-Nicolson. Entrega: 04/06/2021, 22:59 hrs.
+- [Tarea 6](https://github.com/uchileFI3104B-2021A/06-tarea-template) -- Métodos Aleatorios. Entrega: 18/06/2021, 22:59 hrs.
 - [Tarea 7](https://github.com/uchileFI3104B-2021A/07-tarea-template) -- Modelamiento de datos. Entrega 09/07/2021, 22:59 hrs.
