@@ -9,7 +9,7 @@
 - [OOP y ODEs (privado)](https://github.com/uchileFI3104B-2021A/demo-oop)
 - [EDPs Elipticas, sobre-relajacion (privado)](https://github.com/uchileFI3104B-2021A/demo-sobre-relajacion)
 - [EDPs Parabolicas, Crank-Nicolson (privado)](https://github.com/uchileFI3104B-2021A/demo-crank-nicolson)
-- [Ajuste de Datos (n/a)](#)
+- [Ajuste de Datos (privado)](https://github.com/uchileFI3104B-2021A/demo-ajuste-de-datos)
 
 
 ## Tareas (privadas)
